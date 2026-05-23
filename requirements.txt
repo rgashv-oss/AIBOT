@@ -1,4 +1,5 @@
 aiogram
+Pillow
 google-generativeai
 groq
 python-dotenv
